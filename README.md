@@ -1,2 +1,16 @@
 # NuTremo
  A light-activated trèmolo circuit
+
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Copyright (C) [GolemMilk] [2025]
+
+This source describes Open Hardware and is licensed under the CERN-OHL-S v2.
+You may redistribute and modify this documentation and make products using it under the terms of the CERN-OHL-S v2.
+
+You should have received a copy of the CERN-OHL-S v2 along with this source.
+If not, you can obtain it at https://ohwr.org/cernohl
+
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Please see the CERN-OHL-S v2 for applicable conditions.
