@@ -23,6 +23,9 @@ circuit→：[NuTremo_20250621.pdf](https://github.com/user-attachments/files/21
 ![IMG_1714](https://github.com/user-attachments/assets/0488e778-5aa9-494f-8931-f9e129e7d0c4)
 )
 
+https://github.com/user-attachments/assets/23e7edae-10a2-4313-a399-62a9ba1980fa
+
+https://github.com/user-attachments/assets/370c3251-c702-4e49-9818-ad887eceaa77
 
 Most of the parts are control units. The R7 constant is responsible for adjusting the trèmolo speed.
 
