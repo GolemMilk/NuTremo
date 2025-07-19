@@ -17,6 +17,8 @@ Please see the CERN-OHL-S v2 for applicable conditions.
 
 This circuit gives the guitar a trèmolo effect. The JFET gate is energized according to the resistance value that varies with the flickering of the light.
 
+[NuTremo_20250621.pdf](https://github.com/user-attachments/files/21324331/NuTremo_20250621.pdf)
+
 
 Most of the parts are control units. The R7 constant is responsible for adjusting the trèmolo speed.
 
