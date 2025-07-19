@@ -14,3 +14,12 @@ If not, you can obtain it at https://ohwr.org/cernohl
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
 INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-S v2 for applicable conditions.
+
+This circuit gives the guitar a trèmolo effect. The JFET gate is energized according to the resistance value that varies with the flickering of the light.
+
+
+Most of the parts are control units. The R7 constant is responsible for adjusting the trèmolo speed.
+
+NE555P emits PWM, but is connected to the LED anode of U1 through an integrator and three LPFs. Adjusting U1 is the most difficult. I think that the most beautiful trèmolo can be achieved by placing a pink high-brightness LED and a CDs cell close together, handmade.
+
+The C13 is set at 4700p for a mellow frequency for tremolo.
