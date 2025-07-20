@@ -32,3 +32,6 @@ Most of the parts are control units. The R7 constant is responsible for adjustin
 NE555P emits PWM, but is connected to the LED anode of U1 through an integrator and three LPFs. Adjusting U1 is the most difficult. I think that the most beautiful trèmolo can be achieved by placing a pink high-brightness LED and a CDs cell close together, handmade.
 
 The C13 is set at 4700p for a mellow frequency for tremolo.
+
+【SoundSample】
+https://soundcloud.com/golemmilk/sets/nutremo_effect_sample?si=a4b11efd8e1a4d9892cf135fed6b2cee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
